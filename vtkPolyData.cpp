@@ -1,4 +1,3 @@
-﻿#include "deneme_2.h"
 #include <vtkPolyData.h>
 #include <vtkSmartPointer.h>
 #include <vtkPoints.h>
